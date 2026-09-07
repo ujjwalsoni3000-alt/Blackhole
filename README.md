@@ -1,4 +1,4 @@
-# Real-time Black Hole Rendering in OpenGL
+# Real-time Black Hole Rendering 
 
 ![Screenshot](docs/blackhole-screenrecord.gif)
 
